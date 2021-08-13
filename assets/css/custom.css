@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#header{
+    background-color: #3aa3d0;
+    color:#fff;
+    height: 40px;
+}
+#main-form-sec{
+    background-image: url("../images/bg-image.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center; 
+    height: inherit;
+    height: 90vh;
+    max-height: 100vh;
+}
+.trusted-head-text{
+  color:#3aa3d0;
+  font-size:27px;
+  font-size: bold;
+  display: flex;
+  background-color: #cccccc;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
